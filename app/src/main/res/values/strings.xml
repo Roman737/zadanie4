@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ugadai</string>
+
+    <string name="behing">Недолет</string>
+    <string name="ahead">Перелет!</string>
+    <string name="hit">В Точку!</string>
+    <string name="try_to_guess">Попробуйте отгадать число от (1 &#8211; 100)</string>
+    <string name="error">Неверный ввод</string>
+
+    <string name="input_value">Ввести значение</string>
+    <string name="play_more">Сыграть еще?</string>
+
+</resources>
